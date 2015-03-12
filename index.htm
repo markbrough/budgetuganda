@@ -83,9 +83,9 @@ var overview_selected;
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://openspending.org/api',
 				dataset: 'budgetuganda',
-				drilldowns: ['vote-function', 'vote'],
+				drilldowns: ['sector', 'vote', 'vote-function'],
 				cuts: ['year:'+year, 'budget-type.name:expenditure'],
-				order: ['vote-function:asc'],
+				order: ['sector:asc'],
 				//localApiCache: 'uganda-'+whichyear+'.json',
 				rootNodeLabel: 'Uganda budget<br />(USD)',
 				breakdown: 'budget-source',
@@ -178,9 +178,9 @@ var overview_selected;
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://openspending.org/api',
 				dataset: 'budgetuganda',
-				drilldowns: ['vote-function', 'vote'],
+				drilldowns: ['sector', 'vote', 'vote-function'],
 				cuts: ['year:'+year, 'budget-type.name:expenditure'],
-				order: ['vote-function:asc'],
+				order: ['sector:asc'],
 				//localApiCache: 'uganda-'+year+'.json',
 				rootNodeLabel: 'Uganda Budget<br />(USh)',
 				breakdown: 'budget-source',
