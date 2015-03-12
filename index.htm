@@ -1,0 +1,260 @@
+<html>
+<title>Uganda Budget</title>
+<head>
+<script src="jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="thickbox-compressed.js"></script>
+<script src="jquery.history.js" type="text/javascript"></script>
+<script src="raphael-min.js" type="text/javascript"></script>
+<script src="Tween.js" type="text/javascript"></script>
+<script src="vis4.js" type="text/javascript"></script>
+<script src="bubbletree.js" type="text/javascript"></script>
+<script type="text/javascript" src="jquery.tooltip.min.js"></script>
+<script type="text/javascript" src="aggregator.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="jquery-ui-1.8.16.custom.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="ugandabubbletree.css" /> 
+	<script type="text/javascript" src="http://static.guim.co.uk/interactivesaved/2011/9/30/1317401451625/237845/js/jquery-ui-1.8.16.custom.min.js"></script>
+<style type="text/css" media="all">@import "thickbox.css";</style>	
+<style>
+html, body {
+	overflow: hidden; 
+}
+#header {
+	top:50%;
+}
+.bubbletree-wrapper { 
+	height: 100%;
+	position: relative;
+}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18679634-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+
+var year = '2005';
+var swg;
+var sector_objective;
+var isasectorobjective;
+var rootvar;		       
+var overview_selected;
+
+	    $(function() {
+		    $( "#leftradio" ).buttonset();
+		    $( "#radio" ).buttonset();
+	    });
+
+
+		function changeYear(whichyear) {
+			year = whichyear;
+			bubbleTree.clean();
+			$('.bubbletree').empty();
+
+			var $tooltip = $('<div class="tooltip">Tooltip</div>');
+			$('.bubble-chart').append($tooltip);
+			$tooltip.hide();
+			
+			
+			
+			var getTooltip = function() {
+				return this.getAttribute('tooltip');
+			};
+			
+			var initTooltip = function(node, domnode) {
+				domnode.setAttribute('tooltip', node.label+' &nbsp;<b>'+node.famount+'</b><br /><small>'+node.name+'</small>');
+				
+				vis4.log(domnode.getAttribute('tooltip'));
+				
+				$(domnode).tooltip({ delay: 200, bodyHandler: getTooltip });
+			};
+
+
+			new OpenSpending.Aggregator({
+				apiUrl: 'http://openspending.org/api',
+				dataset: 'budgetuganda',
+				drilldowns: ['vote-function', 'vote'],
+				cuts: ['year:'+year, 'budget-type.name:expenditure'],
+				order: ['vote-function:asc'],
+				//localApiCache: 'uganda-'+whichyear+'.json',
+				rootNodeLabel: 'Uganda budget<br />(USD)',
+				breakdown: 'budget-source',
+				callback: function(data) {
+					bubbleTree = new BubbleTree({
+						data: data,
+						container: '.bubbletree',
+						//tooltipCallback: tooltip,
+						bubbleType: 'donut',
+						initTooltip: initTooltip,
+						maxNodesPerLevel: 12,
+						bubbleStyles: {									
+							'id': {
+								'root': { color: '#ffffff' }
+							},
+							'name': {
+								'donor': { color: '#A1218D' },
+								'external': { color: '#A1218D' },
+								'government': { color: '#4183B0' },
+								'appropriation-in-aid': { color: '#005187' }
+							}
+						}
+					});
+					$('.bubbletree').delay(500).fadeTo('slow', 1)
+				}
+			});
+		}
+
+		$(function() {		
+
+
+		$("#radio input[type='radio']").click(function() {
+			var changetowhichyear = this.value;
+			year = changetowhichyear;
+			$('.bubbletree').fadeTo('slow', 0.5, function() {
+				changeYear(changetowhichyear);
+			   });
+			$('#radio label').removeClass('ui-state-active');
+			$('#radio .'+changetowhichyear+'_chooser').addClass('ui-state-active');
+			// change the hash...
+		});
+
+			
+			var $tooltip = $('<div class="tooltip">Tooltip</div>');
+			$('.bubble-chart').append($tooltip);
+			$tooltip.hide();
+			
+			
+			
+			var getTooltip = function() {
+				return this.getAttribute('tooltip');
+			};
+			
+			var initTooltip = function(node, domnode) {
+				domnode.setAttribute('tooltip', node.label+' &nbsp;<b>'+node.famount+'</b><br /><small>'+node.name+'</small>');
+				
+				vis4.log(domnode.getAttribute('tooltip'));
+				
+				$(domnode).tooltip({ delay: 200, bodyHandler: getTooltip });
+			};
+			function setYear(hash) {
+				if (hash) {
+					year = hash.substr(3,4);
+					$('#radio .'+year+'_chooser').addClass('ui-state-active');
+				} else {
+					year = '2013';
+					$('#radio .'+year+'_chooser').addClass('ui-state-active');
+				}
+				if (year == 'ugan-') {
+					year = '2013';
+					$('#radio .'+year+'_chooser').addClass('ui-state-active');
+				}
+
+				$('#radio .'+year+'_chooser .ui-state-active').attr("checked", "checked");
+			};
+			$.history.init(setYear);
+			BubbleTree.Utils.formatNumber = function(n) {
+				var prefix = '';
+				if (n < 0) {
+					n = n*-1;
+					prefix = '-';
+				}
+				if (n >= 1000000000000) return prefix+Math.round(n / 1000000000) + 'bn';
+				if (n >= 1000000000) return prefix+Math.round(n / 100000000)/10 + 'bn';
+				if (n >= 1000000) return prefix+Math.round(n / 100000)/10 + 'm';
+				if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';
+				else return prefix+n;
+			};
+
+			new OpenSpending.Aggregator({
+				apiUrl: 'http://openspending.org/api',
+				dataset: 'budgetuganda',
+				drilldowns: ['vote-function', 'vote'],
+				cuts: ['year:'+year, 'budget-type.name:expenditure'],
+				order: ['vote-function:asc'],
+				//localApiCache: 'uganda-'+year+'.json',
+				rootNodeLabel: 'Uganda Budget<br />(USh)',
+				breakdown: 'budget-source',
+				callback: function(data) {
+				
+					bubbleTree = new BubbleTree({
+						data: data,
+						container: '.bubbletree',
+						//tooltipCallback: tooltip,
+						bubbleType: 'donut',
+						initTooltip: initTooltip,
+						maxNodesPerLevel: 12,
+						bubbleStyles: {									
+							'id': {
+								'root': { color: '#ffffff' }
+							},
+							'name': {
+								'donor': { color: '#A1218D' },
+								'external': { color: '#A1218D' },
+								'government': { color: '#4183B0' },
+								'appropriation-in-aid': { color: '#005187' }
+							}
+						}
+					});
+				}
+			});
+			
+		});
+
+       
+                                        
+	</script>
+</head>
+<body>
+<div id="topbanner">
+
+	<div class="topbanner-left" id="leftradio">
+<input alt="#TB_inline?height=400&amp;width=600&amp;inlineId=overview-div" title="Overview" class="thickbox ui-button-text ui-button ui-widget ui-state-default ui-button-text-only ui-state-active" value="Overview" type="button">
+</div>
+	<div id="overview-div">
+			
+	<h2>Uganda Budget Visualisation</h2>
+	<p>This visualisation shows Uganda's domestic budget</p>
+	<p>You can also see the individual projects that make up this spending data, by viewing the data on <a href="http://openspending.org/ugandabudget">http://www.OpenSpending.org</a></p>
+	</div>
+
+	<div class="topbanner-right">
+    <form>
+	<div id="radio">
+		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio1" value="2011" name="radio" />
+		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2011_chooser" for="radio1" aria-pressed="true" role="button" aria-disabled="false">
+    <span class="ui-button-text">2011</span></label>
+		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio2" value="2012" name="radio" />
+		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2012_chooser" for="radio2" aria-pressed="true" role="button" aria-disabled="false">
+		<span class="ui-button-text">2012</span></label>
+		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio3" value="2013" name="radio" />
+		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2013_chooser" for="radio3" aria-pressed="true" role="button" aria-disabled="false">
+		<span class="ui-button-text">2013</span></label>
+
+	</div></form></div></div>
+<div id="page-wrapper">
+	<div id="legend">
+	<ul>
+	<li class="gou">Domestic Spending</li>
+	<li class="bs">Appropriation in aid</li>
+	<li class="aid">Donor</li>
+	<li class="aid">External</li>
+	</ul>
+	</div>
+	<div id="overview-div">Some things go here</div>
+		<div class="bubbletree-wrapper">
+			<div id="bubbletree" class="bubbletree"></div>
+		</div>
+
+</div>
+</body>
+</html>
