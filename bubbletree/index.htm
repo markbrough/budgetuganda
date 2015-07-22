@@ -83,11 +83,11 @@ var overview_selected;
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://openspending.org/api',
 				dataset: 'budgetuganda',
-				drilldowns: ['sector', 'vote', 'vote-function'],
+				drilldowns: ['sector', 'vote-function', 'output'],
 				cuts: ['year:'+year, 'budget-type.name:expenditure'],
 				order: ['sector:asc'],
 				//localApiCache: 'uganda-'+whichyear+'.json',
-				rootNodeLabel: 'Uganda budget<br />(USD)',
+				rootNodeLabel: 'Uganda budget<br />(USh)',
 				breakdown: 'budget-source',
 				callback: function(data) {
 					bubbleTree = new BubbleTree({
@@ -178,7 +178,7 @@ var overview_selected;
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://openspending.org/api',
 				dataset: 'budgetuganda',
-				drilldowns: ['sector', 'vote', 'vote-function'],
+				drilldowns: ['sector', 'vote-function', 'output'],
 				cuts: ['year:'+year, 'budget-type.name:expenditure'],
 				order: ['sector:asc'],
 				//localApiCache: 'uganda-'+year+'.json',
@@ -232,13 +232,13 @@ var overview_selected;
 	<div id="radio">
 		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio1" value="2011" name="radio" />
 		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2011_chooser" for="radio1" aria-pressed="true" role="button" aria-disabled="false">
-    <span class="ui-button-text">2011</span></label>
+    <span class="ui-button-text">2011-2</span></label>
 		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio2" value="2012" name="radio" />
 		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2012_chooser" for="radio2" aria-pressed="true" role="button" aria-disabled="false">
-		<span class="ui-button-text">2012</span></label>
+		<span class="ui-button-text">2012-3</span></label>
 		<input class="ui-button ui-button-text-only ui-widget ui-state-default ui-helper-hidden-accessible" type="radio" id="radio3" value="2013" name="radio" />
 		<label class="ui-button-text ui-button ui-widget ui-state-default ui-button-text-only 2013_chooser" for="radio3" aria-pressed="true" role="button" aria-disabled="false">
-		<span class="ui-button-text">2013</span></label>
+		<span class="ui-button-text">2013-4</span></label>
 
 	</div></form></div></div>
 <div id="page-wrapper">
