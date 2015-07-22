@@ -1,0 +1,7002 @@
+{
+
+    "drilldown": 
+
+[
+
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 367000000,
+"num_entries": "7645",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b8c770a26b25f4901e35adc5c03c4523",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b8c770a26b25f4901e35adc5c03c4523"
+        },
+        "name": "budget-preparation-execution-and-monitoring",
+        "label": "Budget Preparation, Execution and Monitoring"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 442088107,
+"num_entries": "5532",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "23ad50bd6568a38bfc15443d1a7e80df",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "23ad50bd6568a38bfc15443d1a7e80df"
+        },
+        "name": "corruption-investigation-litigation-awareness",
+        "label": "Corruption investigation ,Litigation & Awareness"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 366000000,
+"num_entries": "2096",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2eb0986e5a38c0a0d14174b539e48eb3",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2eb0986e5a38c0a0d14174b539e48eb3"
+        },
+        "name": "development-policy-research-and-monitoring",
+        "label": "Development Policy Research and Monitoring"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 235250000,
+"num_entries": "3566",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d6b2007f82ddc78070309a59a7fdcdd4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d6b2007f82ddc78070309a59a7fdcdd4"
+        },
+        "name": "external-audit",
+        "label": "External Audit"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 162941894,
+"num_entries": "70",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "62c23f432a13f132e72e38194a5054b0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "62c23f432a13f132e72e38194a5054b0"
+        },
+        "name": "financial-management-and-accountability-lg-",
+        "label": "Financial Management and Accountability(LG)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 30000000,
+"num_entries": "1772",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "04e70cb95ae663f453b275507e1278e2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "04e70cb95ae663f453b275507e1278e2"
+        },
+        "name": "governance-and-accountability",
+        "label": "Governance and Accountability"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 504000000,
+"num_entries": "2316",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "e6b756b77428909be1b675b95207428d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "e6b756b77428909be1b675b95207428d"
+        },
+        "name": "investment-and-private-sector-promotion",
+        "label": "Investment and Private Sector Promotion"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 65000000,
+"num_entries": "5616",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2349568e55faeaa62ff6ebb0df9273f4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2349568e55faeaa62ff6ebb0df9273f4"
+        },
+        "name": "macroeconomic-policy-and-management",
+        "label": "Macroeconomic Policy and Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 1000000000,
+"num_entries": "1442",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c85fab303c8fd3d337b3fb41d5fdea7b",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c85fab303c8fd3d337b3fb41d5fdea7b"
+        },
+        "name": "microfinance",
+        "label": "Microfinance"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 125000000,
+"num_entries": "5729",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 287000000,
+"num_entries": "9068",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "acd8fa631bec634b1afddedbe8b0d9e7",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "acd8fa631bec634b1afddedbe8b0d9e7"
+        },
+        "name": "public-financial-management",
+        "label": "Public Financial Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 616601700,
+"num_entries": "2383",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "187a27805163fbf5c03bda71745be857",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "187a27805163fbf5c03bda71745be857"
+        },
+        "name": "regulation-of-the-procurement-and-disposal-system",
+        "label": "Regulation of the Procurement and Disposal System"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 750600000,
+"num_entries": "5798",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c3bbde74f035a9a7556729a7017ccc6e",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c3bbde74f035a9a7556729a7017ccc6e"
+        },
+        "name": "revenue-collection-administration",
+        "label": "Revenue Collection & Administration"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 3600000,
+"num_entries": "178",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1a1125c28187f3f5f9048a34f97d09f9",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1a1125c28187f3f5f9048a34f97d09f9"
+        },
+        "name": "revenue-collection-and-mobilisation",
+        "label": "Revenue collection and mobilisation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 312000000,
+"num_entries": "6779",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "a1c2974f1c1fe0404c298319a092a46f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "a1c2974f1c1fe0404c298319a092a46f"
+        },
+        "name": "statistical-production-and-services",
+        "label": "Statistical production and Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 2000000000,
+"num_entries": "2",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "adde5a228f732aba2f2342df74fd8200",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "adde5a228f732aba2f2342df74fd8200"
+        },
+        "name": "treasury-operations",
+        "label": "Treasury Operations"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "04db571b9e8d3d4770f3384c4b8f0bd7",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "04db571b9e8d3d4770f3384c4b8f0bd7"
+    },
+    "name": "accountability",
+    "label": "Accountability"
+
+},
+"amount": 739865000,
+"num_entries": "3637",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 1318464000,
+"num_entries": "16666",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "9d909767ddc198fa62e09cd732b41826",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "9d909767ddc198fa62e09cd732b41826"
+        },
+        "name": "agricultural-research",
+        "label": "Agricultural Research"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 50000000,
+"num_entries": "2808",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "da10665fe63a453070a46b940ae0f574",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "da10665fe63a453070a46b940ae0f574"
+        },
+        "name": "agriculture-advisory-services",
+        "label": "Agriculture Advisory Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 124800000,
+"num_entries": "7654",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8932c6adf874b436aea76c441ce05c95",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8932c6adf874b436aea76c441ce05c95"
+        },
+        "name": "animal-resources",
+        "label": "Animal Resources"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 250000000,
+"num_entries": "1100",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "50e7ea818ab1d08dd3b6ca3dc461c28a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "50e7ea818ab1d08dd3b6ca3dc461c28a"
+        },
+        "name": "breeding-and-genetic-development",
+        "label": "Breeding and Genetic Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 300000000,
+"num_entries": "1563",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "40c774501c56927f421ae5cfa065c486",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "40c774501c56927f421ae5cfa065c486"
+        },
+        "name": "coffee-development",
+        "label": "Coffee Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 30000000,
+"num_entries": "2285",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2ec14cc7a44060c4572937e24165f40f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2ec14cc7a44060c4572937e24165f40f"
+        },
+        "name": "cotton-development",
+        "label": "Cotton Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 40000000,
+"num_entries": "8472",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d24dbaabc298f960df4828ece72cdbd8",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d24dbaabc298f960df4828ece72cdbd8"
+        },
+        "name": "crops",
+        "label": "Crops"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 241800948,
+"num_entries": "1776",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "ea76421e506ba49ebe8df24a8ba3f092",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "ea76421e506ba49ebe8df24a8ba3f092"
+        },
+        "name": "dairy-development",
+        "label": "Dairy Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 817241057,
+"num_entries": "34",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "eda51bf01e8f97255eabc85aac83890a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "eda51bf01e8f97255eabc85aac83890a"
+        },
+        "name": "district-production-services",
+        "label": "District Production Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 23000000,
+"num_entries": "8301",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 75255000,
+"num_entries": "4910",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "511001645fda2377e6692e1edd811b0d",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "511001645fda2377e6692e1edd811b0d"
+    },
+    "name": "agriculture",
+    "label": "Agriculture"
+
+},
+"amount": 8732655,
+"num_entries": "103",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "e756cb34f17a0581eabf7eb04065452f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "e756cb34f17a0581eabf7eb04065452f"
+        },
+        "name": "urban-commercial-and-production-services",
+        "label": "Urban Commercial and Production Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 212000000,
+"num_entries": "16178",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "13d447a9b0783bef30707954e4792b14",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "13d447a9b0783bef30707954e4792b14"
+        },
+        "name": "delivery-of-tertiary-education",
+        "label": "Delivery of Tertiary Education"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 523585380,
+"num_entries": "9978",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "880bddc1c16a31e9ece602fce72cc7ab",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "880bddc1c16a31e9ece602fce72cc7ab"
+        },
+        "name": "delivery-of-tertiary-education-and-research",
+        "label": "Delivery of Tertiary Education and Research"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 625000000,
+"num_entries": "10",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8e1040adb148028c013bcd87fbe1c347",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8e1040adb148028c013bcd87fbe1c347"
+        },
+        "name": "education-inspection-and-monitoring",
+        "label": "Education  Inspection and Monitoring"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 625000250,
+"num_entries": "14",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "bdff2ec02d900ed7ed9d1ac6c187601c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "bdff2ec02d900ed7ed9d1ac6c187601c"
+        },
+        "name": "education-sports-management-and-inspection",
+        "label": "Education & Sports Management and Inspection"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 2000000,
+"num_entries": "477",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "690ece3e4b2c14a782808b22bcecb744",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "690ece3e4b2c14a782808b22bcecb744"
+        },
+        "name": "education-and-social-services",
+        "label": "Education and Social Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 98071500,
+"num_entries": "1780",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "7a2d7f336651188f700fd43d156b293f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "7a2d7f336651188f700fd43d156b293f"
+        },
+        "name": "education-personnel-policy-and-management",
+        "label": "Education Personnel Policy and Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 132300000,
+"num_entries": "688",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c72546c4681d6566dd68db808682c333",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c72546c4681d6566dd68db808682c333"
+        },
+        "name": "higher-education",
+        "label": "Higher Education"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 70351000,
+"num_entries": "642",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "227a8622dea9a60c85eaf6154b7665f0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "227a8622dea9a60c85eaf6154b7665f0"
+        },
+        "name": "physical-education-and-sports",
+        "label": "Physical Education and Sports"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 35000000,
+"num_entries": "2429",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 937617000,
+"num_entries": "1322",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "94becaa94f68db30d578f93023adb67c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "94becaa94f68db30d578f93023adb67c"
+        },
+        "name": "pre-primary-and-primary-education",
+        "label": "Pre-Primary and Primary Education"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 53164000,
+"num_entries": "894",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3e5a721103c1a9eb895eb35f70e39f6e",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3e5a721103c1a9eb895eb35f70e39f6e"
+        },
+        "name": "quality-and-standards",
+        "label": "Quality and Standards"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 1398000000,
+"num_entries": "2493",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "a771b43fc5ad7187c3b2f42163212f47",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "a771b43fc5ad7187c3b2f42163212f47"
+        },
+        "name": "secondary-education",
+        "label": "Secondary Education"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 1333000000,
+"num_entries": "1643",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b57dc6224ce42346523cc93be7dcfdff",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b57dc6224ce42346523cc93be7dcfdff"
+        },
+        "name": "skills-development",
+        "label": "Skills Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 85000000,
+"num_entries": "962",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c74115c367af819ffc2629eb8bcc93eb",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c74115c367af819ffc2629eb8bcc93eb"
+        },
+        "name": "special-needs-education-guidance-and-counselling",
+        "label": "Special Needs Education, Guidance and Counselling"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b3bf55f7434f723df6388342ed16aadd",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b3bf55f7434f723df6388342ed16aadd"
+    },
+    "name": "education",
+    "label": "Education"
+
+},
+"amount": 76100000,
+"num_entries": "3276",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1d2283c01eef78c5ef9f0207ffbba9ba",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1d2283c01eef78c5ef9f0207ffbba9ba"
+    },
+    "name": "energy",
+    "label": "Energy"
+
+},
+"amount": 266329000,
+"num_entries": "32",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 28300000,
+"num_entries": "3330",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "68579a48f95f60b57c7a9a41377e8f48",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "68579a48f95f60b57c7a9a41377e8f48"
+        },
+        "name": "energy-planning-management-infrastructure-dev-",
+        "label": "Energy Planning,Management & Infrastructure Dev\t"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 751200384,
+"num_entries": "2472",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "beaccdd5e09a79322e2923e39eb565f6",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "beaccdd5e09a79322e2923e39eb565f6"
+        },
+        "name": "energy-planning-management-infrastructure-dev-t",
+        "label": "Energy Planning,Management & Infrastructure Dev't"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 500000000,
+"num_entries": "8",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f06d07e2399730f4cc95d1f1cda3339d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f06d07e2399730f4cc95d1f1cda3339d"
+        },
+        "name": "large-hydro-power-infrastructure",
+        "label": "Large Hydro power infrastructure"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 1410000000,
+"num_entries": "1",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "14fbdc64dcc596f29648260fafbeebe6",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "14fbdc64dcc596f29648260fafbeebe6"
+        },
+        "name": "large-hydro-power-infrastructure-energy-fund-",
+        "label": "Large Hydro power infrastructure (Energy Fund)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 38700000,
+"num_entries": "5835",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d3edc4e6ed2ecedf6b0f0a0164ba66ad",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d3edc4e6ed2ecedf6b0f0a0164ba66ad"
+        },
+        "name": "mineral-exploration-development-production",
+        "label": "Mineral Exploration, Development & Production"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 5200000,
+"num_entries": "8218",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "25c0b1a4cd1c3c230899da8eb0194a7d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "25c0b1a4cd1c3c230899da8eb0194a7d"
+        },
+        "name": "petroleum-exploration-development-production",
+        "label": "Petroleum Exploration, Development & Production"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 35000000,
+"num_entries": "2858",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1f6bd31bd7ea23d3c88446133a1bdc5a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1f6bd31bd7ea23d3c88446133a1bdc5a"
+        },
+        "name": "petroleum-supply-infrastructure-and-regulation",
+        "label": "Petroleum Supply, Infrastructure and Regulation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 112000000,
+"num_entries": "3666",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 228663834,
+"num_entries": "259",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "865b7a55ca12a99ea27cb70377452bb5",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "865b7a55ca12a99ea27cb70377452bb5"
+        },
+        "name": "rural-electrification",
+        "label": "Rural Electrification"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f69a230699ca826acc668dab4124686",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f69a230699ca826acc668dab4124686"
+    },
+    "name": "energy-and-mineral-development",
+    "label": "Energy and Mineral Development"
+
+},
+"amount": 328500000,
+"num_entries": "1480",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 24000000,
+"num_entries": "2478",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3f44c3439713b21dd890b338b1d417c3",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3f44c3439713b21dd890b338b1d417c3"
+        },
+        "name": "cancer-services",
+        "label": "Cancer Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 328527000,
+"num_entries": "4040",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2922db0ceb264a8f8c43f455f74c4445",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2922db0ceb264a8f8c43f455f74c4445"
+        },
+        "name": "clinical-and-public-health",
+        "label": "Clinical and public health"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 1880000,
+"num_entries": "364",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1c3d31187a6e0d8e28202c8adb878af2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1c3d31187a6e0d8e28202c8adb878af2"
+        },
+        "name": "community-health-management",
+        "label": "Community Health Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 100000000,
+"num_entries": "1756",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3913662525095b80687e766f7b936f6b",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3913662525095b80687e766f7b936f6b"
+        },
+        "name": "coordination-of-multi-sector-response-to-hiv-aids",
+        "label": "Coordination of multi-sector response to HIV/AIDS"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 612000000,
+"num_entries": "1140",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "336e6baa66a8e06e4b735bfce02fdbf3",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "336e6baa66a8e06e4b735bfce02fdbf3"
+        },
+        "name": "health-research",
+        "label": "Health Research"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 206009600,
+"num_entries": "1226",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "87cb5927ad67b03f9d64f8254551f306",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "87cb5927ad67b03f9d64f8254551f306"
+        },
+        "name": "health-systems-development",
+        "label": "Health systems development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 21000000,
+"num_entries": "1572",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c56d6ada9be2f5d4c21c4940a9175829",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c56d6ada9be2f5d4c21c4940a9175829"
+        },
+        "name": "heart-services",
+        "label": "Heart Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 7000000,
+"num_entries": "1305",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1a13b3cad5d2c1d04428709b358f8af2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1a13b3cad5d2c1d04428709b358f8af2"
+        },
+        "name": "human-resource-management-for-health",
+        "label": "Human Resource Management for Health"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 170000000,
+"num_entries": "3659",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "ade87b76b49ef06134132175788dc1ce",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "ade87b76b49ef06134132175788dc1ce"
+        },
+        "name": "national-referral-hospital-services",
+        "label": "National Referral Hospital Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 66000000,
+"num_entries": "26",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b907af67de16ed1b0d56a1ae8c3a17c9",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b907af67de16ed1b0d56a1ae8c3a17c9"
+        },
+        "name": "pharmaceutical-and-medical-supplies",
+        "label": "Pharmaceutical and Medical Supplies"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 507197000,
+"num_entries": "856",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f269b7147095447c86d7edaa6ad01825",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f269b7147095447c86d7edaa6ad01825"
+        },
+        "name": "pharmaceutical-and-other-supplies",
+        "label": "Pharmaceutical and other Supplies"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 409620000,
+"num_entries": "3416",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 1146101796,
+"num_entries": "43",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "fedc4fda3bf915a2b73a15dc60b0c90b",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "fedc4fda3bf915a2b73a15dc60b0c90b"
+        },
+        "name": "primary-healthcare",
+        "label": "Primary Healthcare"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 529956000,
+"num_entries": "3636",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "de321b55a8220cd9abfe7a33e1e48a06",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "de321b55a8220cd9abfe7a33e1e48a06"
+        },
+        "name": "provision-of-specialised-mental-health-services",
+        "label": "Provision of Specialised Mental Health Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 1180000000,
+"num_entries": "64099",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2027f37761edd8afe298ce52724a94f4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2027f37761edd8afe298ce52724a94f4"
+        },
+        "name": "regional-referral-hospital-services",
+        "label": "Regional Referral Hospital Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 412373639,
+"num_entries": "1664",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "77a4daa604939f4849efb49caed84238",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "77a4daa604939f4849efb49caed84238"
+        },
+        "name": "safe-blood-provision",
+        "label": "Safe Blood Provision"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 20000000,
+"num_entries": "806",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "ecf1fc9b0262c1cbcab27021359e157e",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "ecf1fc9b0262c1cbcab27021359e157e"
+        },
+        "name": "sector-monitoring-and-quality-assurance",
+        "label": "Sector Monitoring and Quality Assurance"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "15b7fc81c2141a7c30a65f7aa8412eee",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "15b7fc81c2141a7c30a65f7aa8412eee"
+    },
+    "name": "health",
+    "label": "Health"
+
+},
+"amount": 274807000,
+"num_entries": "2237",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 35150945,
+"num_entries": "2414",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f2558a19a86da24dca373de911cab61a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f2558a19a86da24dca373de911cab61a"
+        },
+        "name": "communications-and-broadcasting-infrastructure",
+        "label": "Communications and Broadcasting Infrastructure"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 30000000,
+"num_entries": "340",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "517831d7e0ebf52106d24f01165621ac",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "517831d7e0ebf52106d24f01165621ac"
+        },
+        "name": "development-of-secure-national-information-technol",
+        "label": "Development of Secure National Information Technol"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 60000000,
+"num_entries": "207",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "53bff5254fe28cdac9312e64c6920390",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "53bff5254fe28cdac9312e64c6920390"
+        },
+        "name": "establishment-of-enabling-environment-for-developm",
+        "label": "Establishment of enabling Environment for developm"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 44472500,
+"num_entries": "1377",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "84c95a1b26dc9f9fd75e9d7f772e59f4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "84c95a1b26dc9f9fd75e9d7f772e59f4"
+        },
+        "name": "information-technology-governance-services-nita-u-",
+        "label": "Information Technology Governance Services(NITA-U)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 17575473,
+"num_entries": "2607",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "65ae75c6033850d52c195d8ffb02a951",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "65ae75c6033850d52c195d8ffb02a951"
+        },
+        "name": "it-and-information-management-services",
+        "label": "IT and Information Management Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 72369593,
+"num_entries": "3410",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 551725589,
+"num_entries": "268",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "7444ac3e2372eaac1c5ae536bb3b88f2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "7444ac3e2372eaac1c5ae536bb3b88f2"
+        },
+        "name": "strengthening-and-aligning-nita-u-to-deliver-its-m",
+        "label": "Strengthening and aligning NITA-U to deliver its m"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "dc47a07e9fbfb7ac1ab550dfc8d6ffc6"
+    },
+    "name": "information-and-communications-technology",
+    "label": "Information and Communications Technology"
+
+},
+"amount": 424306000,
+"num_entries": "321",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "2b8f1a25ebef9fbb9caad48c7c126419",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "2b8f1a25ebef9fbb9caad48c7c126419"
+    },
+    "name": "interest-payments",
+    "label": "Interest Payments"
+
+},
+"amount": 159316328,
+"num_entries": "39",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c14f481dfa6a88589fc73c2ae5cc5895",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c14f481dfa6a88589fc73c2ae5cc5895"
+        },
+        "name": "debt-payments",
+        "label": "Debt Payments"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "2b8f1a25ebef9fbb9caad48c7c126419",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "2b8f1a25ebef9fbb9caad48c7c126419"
+    },
+    "name": "interest-payments",
+    "label": "Interest Payments"
+
+},
+"amount": 1333333330,
+"num_entries": "1",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 116934000,
+"num_entries": "1964",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "859d23848b7c4c85bcfed8a2d8933cc0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "859d23848b7c4c85bcfed8a2d8933cc0"
+        },
+        "name": "administration-of-estates-property-of-the-deceased",
+        "label": "Administration of Estates/Property of the Deceased"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 39022176,
+"num_entries": "3787",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "5d67a88d9cf5991df7f37922cb4bdf67",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "5d67a88d9cf5991df7f37922cb4bdf67"
+        },
+        "name": "citizenship-and-immigration-services",
+        "label": "Citizenship and Immigration Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 53472689,
+"num_entries": "1101",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "2740b4254c5a2dc153a34cce0b5d3f1c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "2740b4254c5a2dc153a34cce0b5d3f1c"
+        },
+        "name": "community-service",
+        "label": "Community Service"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 1347324000,
+"num_entries": "9",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "5ae8025fb1110d4c13e22b505577d407",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "5ae8025fb1110d4c13e22b505577d407"
+        },
+        "name": "court-awards-statutory-",
+        "label": "Court Awards (Statutory)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 232021106,
+"num_entries": "1897",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "7b8d44e75491e485ecfb727736f9ddaa",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "7b8d44e75491e485ecfb727736f9ddaa"
+        },
+        "name": "forensic-and-general-scientific-services-",
+        "label": "Forensic and General Scientific Services."
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 20000000,
+"num_entries": "2049",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3fd18a41b8fc697a77d52ecca3b8d83f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3fd18a41b8fc697a77d52ecca3b8d83f"
+        },
+        "name": "human-rights",
+        "label": "Human Rights"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 133382842,
+"num_entries": "7609",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d0f8e4efc375aeb1717aedd6d02571cc",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d0f8e4efc375aeb1717aedd6d02571cc"
+        },
+        "name": "judicial-services",
+        "label": "Judicial services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 69000000,
+"num_entries": "4217",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "6d7c3217fec0f09259f63fa837810ef6",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "6d7c3217fec0f09259f63fa837810ef6"
+        },
+        "name": "legal-reform",
+        "label": "Legal Reform"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 440000000,
+"num_entries": "2191",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "eba5c3e787eb1ddfe2de2c249f382b50",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "eba5c3e787eb1ddfe2de2c249f382b50"
+        },
+        "name": "legal-training",
+        "label": "Legal Training"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 50700000,
+"num_entries": "4693",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f6214341ce347ba0f937559b94f2db80",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f6214341ce347ba0f937559b94f2db80"
+        },
+        "name": "legislation-and-legal-services",
+        "label": "Legislation and Legal services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 66402000,
+"num_entries": "1040",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "26f2808cdabd9ea14cf2e86798c0309d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "26f2808cdabd9ea14cf2e86798c0309d"
+        },
+        "name": "ngo-registration-and-monitoring-",
+        "label": "NGO Registration and Monitoring."
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 611000000,
+"num_entries": "882",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b697d2eac82c25c29a1ccb45b6ca0027",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b697d2eac82c25c29a1ccb45b6ca0027"
+        },
+        "name": "peace-building",
+        "label": "Peace Building"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 1388739017,
+"num_entries": "8129",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f7fdaaad4c94a2b2223ceed9eb1f587c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f7fdaaad4c94a2b2223ceed9eb1f587c"
+        },
+        "name": "police-services",
+        "label": "Police Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 444730341,
+"num_entries": "4932",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 480212000,
+"num_entries": "4856",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "6e49adbb185c481e0d127a3afe75a514",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "6e49adbb185c481e0d127a3afe75a514"
+        },
+        "name": "prison-and-correctional-services",
+        "label": "Prison and Correctional Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 234341718,
+"num_entries": "4514",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "bd792dab71f6977a9202a1f8e1a9c062",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "bd792dab71f6977a9202a1f8e1a9c062"
+        },
+        "name": "public-prosecutions",
+        "label": "Public Prosecutions"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 93998528,
+"num_entries": "2806",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8d32e5cdbbe2fec789cd8f7582a1376a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8d32e5cdbbe2fec789cd8f7582a1376a"
+        },
+        "name": "recruitment-discipline-research-civic-education",
+        "label": "Recruitment, Discipline, Research &Civic Education"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 108817000,
+"num_entries": "96",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "0205fded24318860f1ef6fa618c858b4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "0205fded24318860f1ef6fa618c858b4"
+        },
+        "name": "registration-births-deaths-marriages-business",
+        "label": "Registration Births, Deaths, Marriages & Business"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 94560500,
+"num_entries": "933",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "6cbbe0e5cb3f63833141c2b976fb6330",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "6cbbe0e5cb3f63833141c2b976fb6330"
+        },
+        "name": "regulation-of-the-legal-profession",
+        "label": "Regulation of the Legal Profession"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 161935496,
+"num_entries": "1387",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "ccab4e850188a63db65afae2d0629d80",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "ccab4e850188a63db65afae2d0629d80"
+        },
+        "name": "support-to-the-justice-law-and-order-sector",
+        "label": "Support to the Justice Law and Order Sector"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 1289479000,
+"num_entries": "4602",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "0c779aced6c5517e051a2027211fe286",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "0c779aced6c5517e051a2027211fe286"
+    },
+    "name": "justice-law-and-order",
+    "label": "Justice, Law and Order"
+
+},
+"amount": 792000,
+"num_entries": "1950",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "15b12e6870939df37483db6ed66ca46a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "15b12e6870939df37483db6ed66ca46a"
+        },
+        "name": "vf-uganda-registration-services-bureau",
+        "label": "VF - Uganda Registration Services Bureau"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 107870000,
+"num_entries": "3398",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "732449db5cf77ccf34bfedb5e0040d9d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "732449db5cf77ccf34bfedb5e0040d9d"
+        },
+        "name": "government-land-administration",
+        "label": "Government Land Administration"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 54542000,
+"num_entries": "4160",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d0e074ec5d88d42759c7c0f040c5dfe4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d0e074ec5d88d42759c7c0f040c5dfe4"
+        },
+        "name": "housing",
+        "label": "Housing"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 24980000,
+"num_entries": "4886",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "86bcad88de84977c34eeec8e52273481",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "86bcad88de84977c34eeec8e52273481"
+        },
+        "name": "land-administration-and-management-mlhud-",
+        "label": "Land, Administration and Management (MLHUD)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 26531000,
+"num_entries": "5329",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "44fc1ffc709c0766a432b3b2cc9b0a74",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "44fc1ffc709c0766a432b3b2cc9b0a74"
+        },
+        "name": "physical-planning-and-urban-development",
+        "label": "Physical Planning and Urban Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 19200000,
+"num_entries": "4035",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 54961000,
+"num_entries": "2723",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "7d69656dc438e3d13826b0d4e889403e",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "7d69656dc438e3d13826b0d4e889403e"
+    },
+    "name": "lands-housing-and-urban-development",
+    "label": "Lands, Housing and Urban Development"
+
+},
+"amount": 19147650,
+"num_entries": "59",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "7d46939241a1245f8e83097f0555c669",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "7d46939241a1245f8e83097f0555c669"
+        },
+        "name": "urban-planning-security-and-land-use",
+        "label": "Urban Planning, Security and Land Use"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "6c1013e9eb54c0a2ad706b22a3829e3b",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "6c1013e9eb54c0a2ad706b22a3829e3b"
+    },
+    "name": "legislature",
+    "label": "Legislature"
+
+},
+"amount": 1483330000,
+"num_entries": "6582",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "365cf96c4c2a3cfea44047f6d207c813",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "365cf96c4c2a3cfea44047f6d207c813"
+        },
+        "name": "parliament",
+        "label": "Parliament"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "6c1013e9eb54c0a2ad706b22a3829e3b",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "6c1013e9eb54c0a2ad706b22a3829e3b"
+    },
+    "name": "legislature",
+    "label": "Legislature"
+
+},
+"amount": 61303000,
+"num_entries": "38",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 872000000,
+"num_entries": "7827",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "06e90379992737d582a705ed695c64e1",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "06e90379992737d582a705ed695c64e1"
+        },
+        "name": "administration-support-to-the-presidency",
+        "label": "Administration & Support to the Presidency"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 68457190,
+"num_entries": "828",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "618fa5ee9b6812804839ffc1137a6f7d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "618fa5ee9b6812804839ffc1137a6f7d"
+        },
+        "name": "cabinet-support-and-policy-development",
+        "label": "Cabinet Support and Policy Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 1239656588,
+"num_entries": "10",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "976b914565879300cfb246f771dee762",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "976b914565879300cfb246f771dee762"
+        },
+        "name": "coordination-of-the-security-sector",
+        "label": "Coordination of the Security Sector"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 45391000,
+"num_entries": "1983",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8d43bb40138f599ecf611f775a261149",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8d43bb40138f599ecf611f775a261149"
+        },
+        "name": "economic-policy-monitoring-evaluation-inspection",
+        "label": "Economic Policy Monitoring,Evaluation & Inspection"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 550000000,
+"num_entries": "698",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "bebac836c7bc6d561dc57e09e0b4b870",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "bebac836c7bc6d561dc57e09e0b4b870"
+        },
+        "name": "government-mobilisation-media-and-awards",
+        "label": "Government Mobilisation, Media and Awards"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 184080000,
+"num_entries": "77",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "98659ee5b67b4061129228a1376a424a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "98659ee5b67b4061129228a1376a424a"
+        },
+        "name": "harmonization-of-political-party-activities",
+        "label": "Harmonization of Political Party Activities"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 38000000,
+"num_entries": "1937",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "ceb411d36c5a4ddb5b794d8f6984680b",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "ceb411d36c5a4ddb5b794d8f6984680b"
+        },
+        "name": "management-of-elections",
+        "label": "Management of Elections"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 450000000,
+"num_entries": "37487",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "db328763360a4dedc3887bff7a158c85",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "db328763360a4dedc3887bff7a158c85"
+        },
+        "name": "overseas-mission-services",
+        "label": "Overseas Mission Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 48423096,
+"num_entries": "4674",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 72218000,
+"num_entries": "1105",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "6722761c227c67cc8aaa9eb059aecee1",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "6722761c227c67cc8aaa9eb059aecee1"
+        },
+        "name": "protocol-and-consular-services",
+        "label": "Protocol and Consular Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 93563000,
+"num_entries": "7624",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "820f2c7f9310ae9bdbad797cb20aa335",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "820f2c7f9310ae9bdbad797cb20aa335"
+        },
+        "name": "regional-and-international-co-operation",
+        "label": "Regional and International Co-operation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e4d87a1a3b170b0acd5ec89b49626cc4",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e4d87a1a3b170b0acd5ec89b49626cc4"
+    },
+    "name": "public-administration",
+    "label": "Public Administration"
+
+},
+"amount": 1384429000,
+"num_entries": "4102",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 87981000,
+"num_entries": "4221",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "edad89e12455b7fba7e1d172ba27d423",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "edad89e12455b7fba7e1d172ba27d423"
+        },
+        "name": "administration-and-support-services",
+        "label": "Administration and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 188700000,
+"num_entries": "2845",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "a11551e8880dc6870aeeb811873ed5a0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "a11551e8880dc6870aeeb811873ed5a0"
+        },
+        "name": "coordination-of-local-government-financing",
+        "label": "Coordination of Local Government Financing"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 8714300,
+"num_entries": "4458",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "278df13f8c1f18f2cea43983c33d9b55",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "278df13f8c1f18f2cea43983c33d9b55"
+        },
+        "name": "coordination-of-the-east-african-community-affairs",
+        "label": "Coordination of the East African Community Affairs"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 511333334,
+"num_entries": "2861",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c42b82325c07d351493b33a66b3f79fd",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c42b82325c07d351493b33a66b3f79fd"
+        },
+        "name": "disaster-preparedness-management-and-refugees",
+        "label": "Disaster Preparedness, Management and Refugees"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 819343000,
+"num_entries": "2951",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b26da40b369d504bcd0cfe8961d182f8",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b26da40b369d504bcd0cfe8961d182f8"
+        },
+        "name": "district-administration-and-development",
+        "label": "District Administration and Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 650000000,
+"num_entries": "137",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "cadaf62305f97fb6b63d8bc9b971c589",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "cadaf62305f97fb6b63d8bc9b971c589"
+        },
+        "name": "district-and-urban-administration",
+        "label": "District and Urban Administration"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 2000000,
+"num_entries": "91",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "6f6d5a528105feb488d9c6b47de11aea",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "6f6d5a528105feb488d9c6b47de11aea"
+        },
+        "name": "east-african-community-secretariat-services",
+        "label": "East African Community Secretariat Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 51282347,
+"num_entries": "1016",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8d43bb40138f599ecf611f775a261149",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8d43bb40138f599ecf611f775a261149"
+        },
+        "name": "economic-policy-monitoring-evaluation-inspection",
+        "label": "Economic Policy Monitoring,Evaluation & Inspection"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 326323000,
+"num_entries": "2657",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "14be14c2eebc164cc88d56c10387a656",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "14be14c2eebc164cc88d56c10387a656"
+        },
+        "name": "hr-management",
+        "label": "HR Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 262400000,
+"num_entries": "898",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "00ce93b89d4162769739e0684477a0db",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "00ce93b89d4162769739e0684477a0db"
+        },
+        "name": "local-council-development",
+        "label": "Local Council Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 360000000,
+"num_entries": "2276",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d53f8cd209e405a905b491bf96e34d36",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d53f8cd209e405a905b491bf96e34d36"
+        },
+        "name": "local-government-inspection-and-assessment",
+        "label": "Local Government Inspection and Assessment"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 873539701,
+"num_entries": "18",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "29584ea308996bf06a7a2d80c5f31a4c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "29584ea308996bf06a7a2d80c5f31a4c"
+        },
+        "name": "local-government-planning-services",
+        "label": "Local Government Planning Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 876127067,
+"num_entries": "10",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "38cd7699d9a676d0dd113ccb195b62d3",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "38cd7699d9a676d0dd113ccb195b62d3"
+        },
+        "name": "local-statutory-bodies",
+        "label": "Local Statutory Bodies"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 1800000000,
+"num_entries": "7482",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "335df29cb7a90227ad748081a5369ac5",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "335df29cb7a90227ad748081a5369ac5"
+        },
+        "name": "management-of-special-programs",
+        "label": "Management of Special Programs"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 246725000,
+"num_entries": "1529",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "bf620183eda2f3fdde0c8cedf2f1a01f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "bf620183eda2f3fdde0c8cedf2f1a01f"
+        },
+        "name": "management-systems-and-structures",
+        "label": "Management Systems and Structures"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 396000000,
+"num_entries": "3611",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "a9ce34f054cb509a6fbac68d4906e5ab",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "a9ce34f054cb509a6fbac68d4906e5ab"
+        },
+        "name": "national-planning-monitoring-and-evaluation",
+        "label": "National Planning, Monitoring and Evaluation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 150000000,
+"num_entries": "9664",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "83e49a4651a9c758799744b3d84875d5",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "83e49a4651a9c758799744b3d84875d5"
+        },
+        "name": "policy-coordination-monitoring-and-evaluation",
+        "label": "Policy Coordination, Monitoring and Evaluation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 112120000,
+"num_entries": "9948",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 81004000,
+"num_entries": "1530",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "0c182e96d52183fa7fbb3855f6d65dba",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "0c182e96d52183fa7fbb3855f6d65dba"
+        },
+        "name": "public-service-inspection",
+        "label": "Public Service Inspection"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 20691000,
+"num_entries": "385",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "e4ce84952bc03244e090be403957db5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "e4ce84952bc03244e090be403957db5d"
+        },
+        "name": "public-service-pensions-reform",
+        "label": "Public Service Pensions Reform"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 2788000,
+"num_entries": "43",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b14a62177d745f9bc41a5003af96241e",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b14a62177d745f9bc41a5003af96241e"
+        },
+        "name": "public-service-pensions-statutory-",
+        "label": "Public Service Pensions(Statutory)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 122832172,
+"num_entries": "2074",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "4b1db7dcfaccc9f922fab6b7f041d557",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "4b1db7dcfaccc9f922fab6b7f041d557"
+        },
+        "name": "public-service-selection-and-discplinary-systems",
+        "label": "Public Service Selection and Discplinary Systems"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 1673786000,
+"num_entries": "4906",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "1f09d69390b9f552b006bc746422abc1",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "1f09d69390b9f552b006bc746422abc1"
+    },
+    "name": "public-sector-management",
+    "label": "Public Sector Management"
+
+},
+"amount": 400000000,
+"num_entries": "881",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "07e87aa6317ad3d548001151b2756ff0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "07e87aa6317ad3d548001151b2756ff0"
+        },
+        "name": "urban-administration-and-development",
+        "label": "Urban Administration and Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "207cbd93ba59c3064cbc51d860be0406",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "207cbd93ba59c3064cbc51d860be0406"
+    },
+    "name": "security",
+    "label": "Security"
+
+},
+"amount": 97695926,
+"num_entries": "2832",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "089b55d2bdc7cf8c5d89605d1627b8a0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "089b55d2bdc7cf8c5d89605d1627b8a0"
+        },
+        "name": "external-security",
+        "label": "External Security"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "207cbd93ba59c3064cbc51d860be0406",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "207cbd93ba59c3064cbc51d860be0406"
+    },
+    "name": "security",
+    "label": "Security"
+
+},
+"amount": 1873000000,
+"num_entries": "901",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "506150ef4baf59f3b4cf77dda1c9292d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "506150ef4baf59f3b4cf77dda1c9292d"
+        },
+        "name": "internal-security",
+        "label": "Internal security"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "207cbd93ba59c3064cbc51d860be0406",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "207cbd93ba59c3064cbc51d860be0406"
+    },
+    "name": "security",
+    "label": "Security"
+
+},
+"amount": 105000000,
+"num_entries": "1201",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "96f1397a8a036cfa2dc174e221d402ce",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "96f1397a8a036cfa2dc174e221d402ce"
+        },
+        "name": "national-defence-updf-",
+        "label": "National Defence (UPDF)"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "207cbd93ba59c3064cbc51d860be0406",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "207cbd93ba59c3064cbc51d860be0406"
+    },
+    "name": "security",
+    "label": "Security"
+
+},
+"amount": 165840145,
+"num_entries": "1142",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "207cbd93ba59c3064cbc51d860be0406",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "207cbd93ba59c3064cbc51d860be0406"
+    },
+    "name": "security",
+    "label": "Security"
+
+},
+"amount": 99353000,
+"num_entries": "465",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 647380364,
+"num_entries": "3280",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "515fa0ada946e39937a97272e9512d4a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "515fa0ada946e39937a97272e9512d4a"
+        },
+        "name": "community-mobilisation-and-empowerment",
+        "label": "Community Mobilisation and Empowerment"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 777400,
+"num_entries": "205",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3a62cb8c5ae17a7bbf0953785c4ba3b0",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3a62cb8c5ae17a7bbf0953785c4ba3b0"
+        },
+        "name": "gender-community-and-economic-development",
+        "label": "Gender, Community and Economic Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 1330000000,
+"num_entries": "1133",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3876c3b9b88e0c4d1e65c936052c6dc9",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3876c3b9b88e0c4d1e65c936052c6dc9"
+        },
+        "name": "mainstreaming-gender-and-rights",
+        "label": "Mainstreaming Gender and Rights"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 222030644,
+"num_entries": "2774",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 325000000,
+"num_entries": "1100",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f92a6ccac30aa1f3465056d8dfea3e52",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f92a6ccac30aa1f3465056d8dfea3e52"
+        },
+        "name": "promotion-of-equal-opportunities-and-redressing-in",
+        "label": "Promotion of equal opportunities and redressing in"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 59979866,
+"num_entries": "3125",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "082c05ac60d1fa1ae589803655a39cff",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "082c05ac60d1fa1ae589803655a39cff"
+        },
+        "name": "promotion-of-labour-productivity-and-employment",
+        "label": "Promotion of Labour Productivity and Employment"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 375000000,
+"num_entries": "3069",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "529af95cbde0766d480bc48f0448b588",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "529af95cbde0766d480bc48f0448b588"
+        },
+        "name": "social-protection-for-vulnerable-groups",
+        "label": "Social Protection for Vulnerable Groups"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "e84ca38bba842a8041986df0ce8f8697",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "e84ca38bba842a8041986df0ce8f8697"
+    },
+    "name": "social-development",
+    "label": "Social Development"
+
+},
+"amount": 123663000,
+"num_entries": "1787",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 170449396,
+"num_entries": "1804",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "8f024b7cad268f225c3ccd7be4cb048e",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "8f024b7cad268f225c3ccd7be4cb048e"
+        },
+        "name": "cooperative-development",
+        "label": "Cooperative Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 77248000,
+"num_entries": "1544",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "d089ea07bd62d7ab3bdc52eb94b3e05f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "d089ea07bd62d7ab3bdc52eb94b3e05f"
+        },
+        "name": "industrial-and-technological-development",
+        "label": "Industrial and Technological Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 2113123,
+"num_entries": "873",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "3445cbf9d6afc9811cb21ee14f894903",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "3445cbf9d6afc9811cb21ee14f894903"
+        },
+        "name": "industrial-development",
+        "label": "Industrial Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 30800000,
+"num_entries": "1790",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "60ce3a33f74be338d8c5babe4bdb667d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "60ce3a33f74be338d8c5babe4bdb667d"
+        },
+        "name": "industrial-research",
+        "label": "Industrial Research"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 168400000,
+"num_entries": "5866",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 1276163268,
+"num_entries": "1541",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "b210be3c8a4b5800dc3177b9a21de6d2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "b210be3c8a4b5800dc3177b9a21de6d2"
+        },
+        "name": "quality-assurance-and-standards-development",
+        "label": "Quality Assurance and Standards Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 403600000,
+"num_entries": "2202",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "31750666ba582cca47e435b4698df492",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "31750666ba582cca47e435b4698df492"
+        },
+        "name": "tourism-services",
+        "label": "Tourism Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 595107435,
+"num_entries": "4013",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "44b0759a866709c9351e34fbfa245322",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "44b0759a866709c9351e34fbfa245322"
+        },
+        "name": "tourism-wildlife-conservation-and-museums",
+        "label": "Tourism, Wildlife conservation and Museums"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 39848121,
+"num_entries": "4556",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "5bd58a61ac94e9e79b791581f3c94863",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "5bd58a61ac94e9e79b791581f3c94863"
+        },
+        "name": "trade-development",
+        "label": "Trade Development"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "b4510bee1f325c75d48a6e87852edcbf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "b4510bee1f325c75d48a6e87852edcbf"
+    },
+    "name": "tourism-trade-and-industry",
+    "label": "Tourism, Trade and Industry"
+
+},
+"amount": 122606000,
+"num_entries": "1257",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 173830000,
+"num_entries": "2880",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "0a1116ffea44844d821213aca72ed093",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "0a1116ffea44844d821213aca72ed093"
+        },
+        "name": "environmental-management",
+        "label": "Environmental Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 21000000,
+"num_entries": "2056",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "e10c4d633cd036343832491daeb37576",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "e10c4d633cd036343832491daeb37576"
+        },
+        "name": "forestry-management",
+        "label": "Forestry Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 100000000,
+"num_entries": "6594",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "e8d2826e537f42c014dae382c0bb69fc",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "e8d2826e537f42c014dae382c0bb69fc"
+        },
+        "name": "natural-resources-management",
+        "label": "Natural Resources Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 36000000,
+"num_entries": "9356",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "dc8d6e515024c5cecc0584f4ee4a5d73",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "dc8d6e515024c5cecc0584f4ee4a5d73"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy, Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 52059496,
+"num_entries": "3982",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "925c0d0f9d7f349e90ce4534597ad4a4",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "925c0d0f9d7f349e90ce4534597ad4a4"
+        },
+        "name": "rural-water-supply-and-sanitation",
+        "label": "Rural Water Supply and Sanitation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 2831833,
+"num_entries": "75",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "73083f81ca21d2a0f13d5299f746c57d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "73083f81ca21d2a0f13d5299f746c57d"
+        },
+        "name": "sanitation-and-environmental-services",
+        "label": "Sanitation and Environmental Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 4000000,
+"num_entries": "1993",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 252606000,
+"num_entries": "11888",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f37861c67793e15b77332d8d8555ffcb",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f37861c67793e15b77332d8d8555ffcb"
+        },
+        "name": "urban-water-supply-and-sanitation",
+        "label": "Urban Water Supply and Sanitation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 6000000,
+"num_entries": "1947",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1a6ab4acabdcf1bc9e985f7979384414",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1a6ab4acabdcf1bc9e985f7979384414"
+        },
+        "name": "water-for-production",
+        "label": "Water for Production"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 52050000,
+"num_entries": "10254",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "5f26c5a5c479d89eb01fba3942c51c22",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "5f26c5a5c479d89eb01fba3942c51c22"
+        },
+        "name": "water-resources-management",
+        "label": "Water Resources Management"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "c882aa21d63768f7226b21cf0239e771",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "c882aa21d63768f7226b21cf0239e771"
+    },
+    "name": "water-and-environment",
+    "label": "Water and Environment"
+
+},
+"amount": 328000000,
+"num_entries": "5023",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "c0596e4f8d93701bf83c2544c985ae81",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "c0596e4f8d93701bf83c2544c985ae81"
+        },
+        "name": "weather-climate-and-climate-change",
+        "label": "Weather, Climate and Climate Change"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 225000000,
+"num_entries": "9606",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1847609abce83991816ef296c634a594",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1847609abce83991816ef296c634a594"
+        },
+        "name": "construction-standards-and-quality-assurance",
+        "label": "Construction Standards and Quality Assurance"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 90000000,
+"num_entries": "4430",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "44159d707c441daf53e34fa9b8ddf7aa",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "44159d707c441daf53e34fa9b8ddf7aa"
+        },
+        "name": "district-urban-and-community-access-roads",
+        "label": "District, Urban and Community Access Roads"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 77000000,
+"num_entries": "2648",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "97bf4303d5b00a7de70c17c652d7a25f",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "97bf4303d5b00a7de70c17c652d7a25f"
+        },
+        "name": "mechanical-engineering-services",
+        "label": "Mechanical Engineering Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 1299998654,
+"num_entries": "1152",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "63b636eafcf81c7c747207a959709a0a",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "63b636eafcf81c7c747207a959709a0a"
+        },
+        "name": "national-and-district-road-maintenance",
+        "label": "National and District Road Maintenance"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 634000000,
+"num_entries": "3087",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "aac2efb05c4d154c7ded87f5fd1b1ec1",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "aac2efb05c4d154c7ded87f5fd1b1ec1"
+        },
+        "name": "national-roads-maintenance-construction",
+        "label": "National Roads Maintenance & Construction"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 200000000,
+"num_entries": "7453",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "f03facdc24078bb4c40c4c7753ce45f2",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "f03facdc24078bb4c40c4c7753ce45f2"
+        },
+        "name": "policy-planning-and-support-services",
+        "label": "Policy,Planning and Support Services"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 224000000,
+"num_entries": "4184",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "1fb505b96126b97fc227d8b09f0cae1c",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "1fb505b96126b97fc227d8b09f0cae1c"
+        },
+        "name": "transport-regulation",
+        "label": "Transport Regulation"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 10000000,
+"num_entries": "4578",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "58b48afe54596e46f53826fef253625d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "58b48afe54596e46f53826fef253625d"
+        },
+        "name": "transport-services-and-infrastructure",
+        "label": "Transport Services and Infrastructure"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 503108000,
+"num_entries": "1862",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "49afe2fbe859199ca474881946c8fb5d",
+    "ref": 
+
+        {
+            "$ref": "classifier",
+            "$id": "49afe2fbe859199ca474881946c8fb5d"
+        },
+        "name": "unspecified",
+        "label": "Unspecified"
+    }
+
+},
+{
+
+    "sector": 
+
+{
+
+    "taxonomy": "uganda-sector",
+    "id": "a9cf856af4dc0535a30152d3d96db7bf",
+    "ref": 
+
+    {
+        "$ref": "classifier",
+        "$id": "a9cf856af4dc0535a30152d3d96db7bf"
+    },
+    "name": "works-and-transport",
+    "label": "Works and Transport"
+
+},
+"amount": 7350000,
+"num_entries": "95",
+"vote_function_name": 
+{
+
+    "taxonomy": "uganda-vote-function",
+    "id": "fbbc83a9a048c90adbca8abb1a8c8702",
+    "ref": 
+
+            {
+                "$ref": "classifier",
+                "$id": "fbbc83a9a048c90adbca8abb1a8c8702"
+            },
+            "name": "urban-road-network-development",
+            "label": "Urban Road Network Development"
+        }
+    }
+
+],
+"summary": 
+
+    {
+        "amount": 66949571031,
+        "num_drilldowns": 194,
+        "currency": [
+          "UGX"
+        ]
+    }
+
+}
