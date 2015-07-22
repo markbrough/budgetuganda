@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Uganda budget treemap</title>
+
+  <link rel="stylesheet" type="text/css" media="all" href="css/treemap.css" />
+  <script src="jquery.js"></script>
+  <script src="boot.js"></script>
+  <script src="thejit-2.js"></script>
+  <script src="openspending.aggregator.js"></script>
+  <script src="openspending.colors.js"></script>
+  <script src="jquery.treemap.js"></script>
+</head>
+<body>
+  <div id="breadcrumb"><a href="#">Reset</a></div>
+  <div id="treemap" data-dataset="uganda-budget"></div>
+
+  <script>
+  var data = {
+     dataset: "uganda-budget",
+  };
+  
+  function updateTreemap() {
+    var options = {
+       data: {
+         drilldowns: ["sector", "vote_function_name"]
+       },
+      jsonurl: "ugandadata.json",
+      width: 800,
+      height: 400
+    };
+    $('#treemap').treemap(options);
+  }
+  $("#treemap").on("mousedown", function(e) {
+    e.preventDefault();
+    $("#breadcrumb").css("visibility", "visible");
+  });
+  $("#breadcrumb").click(function() {
+    updateTreemap();
+    $("#breadcrumb").css("visibility", "hidden");
+  });
+
+  updateTreemap();
+  $("#breadcrumb").css("visibility", "hidden");
+  </script>
+</body>
+</html>
